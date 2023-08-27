@@ -72,3 +72,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Other directories/files to ignore
+.vscode/*
+Assets/*
+Build/*
+Content/*
+Platforms/*
