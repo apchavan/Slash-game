@@ -1,6 +1,8 @@
 # Slash
 
-Respo contains the game's source files developed while learning "_Unreal Engine 5 C++ The Ultimate Game Developer Course_" on Udemy. Here only the `.ini` configs, all of `.cpp`, `.cs` and `.h` source code files are present.
+Respo contains the game's source files developed while learning "_Unreal Engine 5 C++ The Ultimate Game Developer Course_" on Udemy.
+
+Only the `.ini` configs, all `.cpp`, `.h` and `.cs` source code files are present. Due to storage requirements, the game assets are not pushed here.
 
 Unreal Engine version: `5.1.1`
 
